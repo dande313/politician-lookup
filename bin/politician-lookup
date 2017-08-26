@@ -3,4 +3,4 @@
 require_relative '../config/environment'
 
 cli_lookup = Lookup.new
-cli_lookup.hello_world
+cli_lookup.run
