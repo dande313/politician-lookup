@@ -1,7 +1,10 @@
-class Player
-	attr_reader :token
-	
-	def initialize(token)
-		@token = token
+class Lookup
+	attr_accessor
+
+	def initialize
+	end
+
+	def hello_world
+		puts "Hello World!"
 	end
 end

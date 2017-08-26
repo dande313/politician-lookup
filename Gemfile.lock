@@ -25,12 +25,12 @@ GEM
     slop (3.6.0)
 
 PLATFORMS
-  ruby
   x86-mingw32
 
 DEPENDENCIES
   pry
   require_all
-  nokogiri (= 1.6.6.2)
   rspec
 
+BUNDLED WITH
+   1.15.4
